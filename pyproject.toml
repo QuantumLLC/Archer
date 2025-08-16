@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "archer"
+version = "0.1.0"
+description = "Headless, browser-like HTTP client with TLS & header emulation"
+authors = [{ name="QuantumLLC" }]
+dependencies = ["requests>=2.31.0"]
