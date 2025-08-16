@@ -14,3 +14,6 @@ print(r.status_code, r.text[:200])
 ---
 - `pip install .` to install locally  
 - `pip install git+https://github.com/QuantumLLC/Archer`
+
+
+also do pip install archerfr
