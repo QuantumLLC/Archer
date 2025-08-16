@@ -9,3 +9,8 @@ from archer import ArcherSession
 s = ArcherSession(browser="chrome", version="122")
 r = s.get("https://example.com")
 print(r.status_code, r.text[:200])
+```
+
+---
+- `pip install .` to install locally  
+- `pip install git+https://github.com/QuantumLLC/Archer`
