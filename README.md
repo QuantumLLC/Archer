@@ -14,3 +14,5 @@ print(r.status_code, r.text[:200])
 ---
 - `pip install .` to install locally  
 - `pip install git+https://github.com/QuantumLLC/Archer`
+
+** ONLY pip install archerfr IS REAL DO NOT TRUST THEM FAKES **
